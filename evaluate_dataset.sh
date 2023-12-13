@@ -1,3 +1,4 @@
+#!/bin/bash
 python eval_fluency_english_socmed_csr_data.py \
     --do_train \ 
     --do_predict \ 
